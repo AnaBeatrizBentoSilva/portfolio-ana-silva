@@ -68,12 +68,12 @@ Apresenta minha trajetória profissional, projetos, experiências e formas de co
 │       └── Header/
 │           └── Header.tsx
 ├── .gitignore.js
+├── README.md
 ├── eslint.config.mjs
 ├── next.config.ts
 ├── package-lock.json
 ├── package.json
 ├── postcss.config.mjs
-├── README.md
 ├── tsconfig.json
 └── yarn.lock
 ```
