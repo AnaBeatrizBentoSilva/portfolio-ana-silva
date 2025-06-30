@@ -1,0 +1,248 @@
+{
+  "qualifications": [
+    {
+      "id": 1,
+      "icone": "Laptop2",
+      "titulo": "Front-End",
+      "descricao": "Experiência em criar interfaces dinâmicas e responsivas com HTML5, CSS3, SCSS, JavaScript, TypeScript, React, React Native, Tailwind e Angular."
+    },
+    {
+      "id": 2,
+      "icone": "Code",
+      "titulo": "Back-End",
+      "descricao": "Experiência com Node.js, PHP, Java, C++ e C#."
+    },
+    {
+      "id": 3,
+      "icone": "BarChart",
+      "titulo": "Dados",
+      "descricao": "Conhecimento em SQL e Python para análise e manipulação de dados."
+    },
+    {
+      "id": 4,
+      "icone": "Database",
+      "titulo": "Bancos de Dados",
+      "descricao": "Familiaridade com MySQL, SQL Server e MongoDB."
+    },
+    {
+      "id": 5,
+      "icone": "GitFork",
+      "titulo": "Versionamento de Código",
+      "descricao": "Proficiente no uso de Git/GitHub para controle de versão e colaboração em projetos de software."
+    }
+  ],
+
+  "projects": [
+    {
+      "id": 1,
+      "img": "/img/test/example.png",
+      "title": "Spotify",
+      "description": "Projeto desenvolvido com HTML, CSS e JavaScript para criar uma página de navegação inspirada no Spotify, utilizando uma API Fake com JSON Server como backend.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/spotify-front.git"
+    },
+    {
+      "id": 2,
+      "img": "/img/test/example.png",
+      "title": "Spotify",
+      "description": "Projeto desenvolvido com React, CSS e JavaScript para criar uma página de navegação inspirada no Spotify, utilizando uma API Fake com JSON Server como backend.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/spotify-react-front.git"
+    },
+    {
+      "id": 3,
+      "img": "/img/test/example.png",
+      "title": "Nubank Estilo Antigo",
+      "description": "Projeto desenvolvido com React Native, TypeScript e CSS, com o objetivo de reproduzir o design clássico da interface do Nubank, com base no estilo antigo utilizado pela empresa",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/nubank-old-style-frontend.git"
+    },
+    {
+      "id": 4,
+      "img": "/img/test/example.png",
+      "title": "Nubank Estilo Atual",
+      "description": "Projeto desenvolvido com React Native, TypeScript e CSS, com o objetivo de reproduzir o design moderno da interface do Nubank, com base no estilo atual utilizado pela empres.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/nubank-current-style-frontend.git"
+    },
+    {
+      "id": 5,
+      "img": "/img/test/example.png",
+      "title": "Sudoku",
+      "description": "Projeto desenvolvido em Java, com foco em programação orientada a objetos e manipulação de dados. A aplicação implementa um jogo de Sudoku com duas formas de execução: no terminal (modo interativo por texto) e por uma interface de tela personalizada.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/dio-sudoku.git"
+    },
+    {
+      "id": 6,
+      "img": "/img/test/example.png",
+      "title": "Condições do Tempo",
+      "description": "Projeto desenvolvido com JavaScript, TypeScript, CSS e HTML, no qual foi implementada uma aplicação para exibir as condições do tempo em tempo real, utilizando Webpack para otimizar o desempenho e a organização do código.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/condicoes-do-tempo-webpack.git"
+    },
+    {
+      "id": 7,
+      "img": "/img/test/example.png",
+      "title": "Condições do Tempo",
+      "description": "Projeto desenvolvido com JavaScript, TypeScript, CSS e HTML, no qual foi implementada uma aplicação para exibir condições do tempo em tempo real, permitindo aos usuários visualizar informações de previsão do tempo para diferentes cidades.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/WeatherNow.git"
+    },
+    {
+      "id": 8,
+      "img": "/img/test/example.png",
+      "title": "Login",
+      "description": "Projeto desenvolvido com Angular, Java, SCSS e HTML, no qual foi implementada uma tela de login e cadastro com front-end em Angular e back-end utilizando Java com Spring Boot.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/login-angular-java.git"
+    },
+    {
+      "id": 9,
+      "img": "/img/test/example.png",
+      "title": "Login e Crud",
+      "description": "Projeto desenvolvido em PHP, no qual foi implementada uma aplicação CRUD com sistema de login para usuários e administradores, seguindo o padrão MVC e utilizando banco de dados gerenciado no phpMyAdmin.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/crud-login-php.git"
+    },
+    {
+      "id": 10,
+      "img": "/img/test/example.png",
+      "title": "Crud",
+      "description": "Projeto desenvolvido com Angular, TypeScript, HTML e CSS, no qual foi implementada uma aplicação CRUD para o frontend, utilizando uma API Fake com JSON Server como backend.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/crud-angular.git"
+    },
+    {
+      "id": 11,
+      "img": "/img/test/example.png",
+      "title": "Localização",
+      "description": "Repositório contendo projetos práticos desenvolvidos no curso técnico de Desenvolvimento de Sistemas, com foco em WebServices, consumo de APIs e desenvolvimento em PHP.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/localizacao-php.git"
+    },
+    {
+      "id": 12,
+      "img": "/img/test/example.png",
+      "title": "Criptografia",
+      "description": "Repositório dedicado aos exercícios e exemplos práticos de criptografia desenvolvidos durante o curso técnico, contendo implementações de algoritmos como MD5, SHA1, PASSWORD_HASH, PASSWORD_DEFAULT, PASSWORD_VERIFY e Base64.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/criptografia-php.git"
+    },
+    {
+      "id": 13,
+      "img": "/img/test/example.png",
+      "title": "Lista de Tarefas",
+      "description": "Projeto desenvolvido com React, JavaScript, CSS e HTML, no qual foi implementada uma lista de tarefas com backend simples utilizando uma API Fake com JSON Server, que armazena as informações em um arquivo db.json garantindo a persistência dos dados após atualização da página.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/lista-de-tarefas.git"
+    },
+    {
+      "id": 14,
+      "img": "/img/test/example.png",
+      "title": "Calculadora",
+      "description": "Projeto desenvolvido com HTML, CSS e JavaScript, no qual foi implementada uma calculadora que utiliza HTML e CSS para o layout e JavaScript para processar as operações matemáticas.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/calculadora.git"
+    },
+    {
+      "id": 15,
+      "img": "/img/test/example.png",
+      "title": "Instabytes Frontend",
+      "description": "Projeto front-end desenvolvido com CSS, JavaScript e HTML para o desenvolvimento do Instabytes.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/Instabytes-Front.git"
+    },
+    {
+      "id": 16,
+      "img": "/img/test/example.png",
+      "title": "Instabytes Backend",
+      "description": "Projeto backend desenvolvido em JavaScript, integrando a API Google Gemini para o desenvolvimento do Instabytes.",
+      "linkGitHub": "https://github.com/AnaBeatrizBentoSilva/Instabytes-Back.git"
+    }
+  ],
+
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Desenvolvimento Front-end Mobile",
+      "project": "Como Vai?",
+      "description": "Atuei como freelancer no projeto \"Como Vai?\", onde fui responsável pelo desenvolvimento das telas da aplicação mobile utilizando React Native. Durante os três meses de atuação, pude colocar em prática meus conhecimentos em front-end e adquirir mais segurança no desenvolvimento com foco em aplicações móveis.",
+      "type": "Freelance",
+      "status": "Finalizada",
+      "time": "3 meses",
+      "linkProject": "",
+      "technologies": [
+        {
+          "name": "React Native",
+          "icon": "/icon/react.png"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "/icon/typescript.png"
+        },
+        {
+          "name": "CSS",
+          "icon": "/icon/css3.png"
+        }
+      ],
+      "img": "/img/experiences/comovai.png"
+    },
+    {
+      "id": 2,
+      "title": "Estágio em Desenvolvimento Front-end",
+      "project": "Greencave.Co",
+      "description": "Durante o último semestre do ensino médio, após concluir o curso técnico em Desenvolvimento de Sistemas, realizei um estágio de 6 meses como desenvolvedora front-end, atuando no desenvolvimento web do projeto \"MiniLabs\". Contribuí com a adição de novos componentes ao sistema existente, implementei novas funcionalidades e corrigi erros no site, aprimorando a experiência do usuário e garantindo o bom funcionamento da aplicação.",
+      "type": "Estágio",
+      "status": "Finalizada",
+      "time": "6 meses",
+      "linkProject": "",
+      "technologies": [
+        {
+          "name": "React",
+          "icon": "/icon/react.png"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "/icon/typescript.png"
+        },
+        {
+          "name": "SCSS",
+          "icon": "/icon/scss.svg"
+        }
+      ],
+      "img": "/img/experiences/minilabs.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Desenvolvimento Front-end",
+      "project": "OFFY",
+      "description": "Atuei como freelancer no projeto \"OFFY\", sendo responsável pelo desenvolvimento front-end de um sistema web. Criei todas as telas da aplicação, implementei as funcionalidades de interface e cuidei da responsividade, garantindo uma boa experiência do usuário em diferentes dispositivos. Essa experiência me permitiu aplicar na prática conceitos de design responsivo, componentização e integração com o back-end.",
+      "type": "Freelance",
+      "status": "Finalizada",
+      "time": "3 meses",
+      "linkProject": "https://offy.com.br/",
+      "technologies": [
+        {
+          "name": "React",
+          "icon": "/icon/react.png"
+        },
+        {
+          "name": "TypeScript",
+          "icon": "/icon/typescript.png"
+        },
+        {
+          "name": "Tailwind",
+          "icon": "/icon/tailwindcss.png"
+        }
+      ],
+      "img": "/img/experiences/offy.png"
+    },
+    {
+      "id": 4,
+      "title": "Técnica de Suport em TI",
+      "project": "OFFY",
+      "description": "Após a entrega do projeto \"OFFY\", permaneci por mais um mês oferecendo suporte técnico. Atendia às demandas repassadas pelos usuários, solucionando problemas, consultando dados no banco de dados e realizando alterações pontuais quando necessário.",
+      "type": "Temporário",
+      "status": "Finalizada",
+      "time": "1 meses",
+      "linkProject": "https://offy.com.br/",
+      "technologies": [
+        {
+          "name": "MongoDB",
+          "icon": "/icon/mongodb.svg"
+        },
+        {
+          "name": "Excel",
+          "icon": "/icon/excel.png"
+        }
+      ],
+      "img": "/img/experiences/offy.png"
+    }
+  ]
+}
