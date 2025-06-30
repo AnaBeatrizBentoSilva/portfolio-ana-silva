@@ -63,7 +63,8 @@ Apresenta minha trajetória profissional, projetos, experiências e formas de co
 │       ├── Card/
 │       │   ├── ExperiencesCard.tsx
 │       │   ├── InfoCard.tsx
-│       │   └── ProjectCard.tsx
+│       │   ├── ProjectCard.tsx
+│       │   └── QualificationsCard.tsx
 │       └── Header/
 │           └── Header.tsx
 ├── .gitignore.js
