@@ -30,13 +30,13 @@ export default function QualificationsCard({ dados }: Props) {
             {dados.map((item, i) => (
                 <div
                     key={i}
-                    className="rounded-2xl border border-[#CE1EFA]/30 shadow-md bg-white dark:bg-[#1f1f1f] p-4"
+                    className="bg-card rounded-2xl border border-[#CE1EFA]/30 shadow-md p-4"
                 >
                     <div className="flex items-center gap-2 mb-2">
                         {icons[item.icone]}
                         <h3 className="font-medium text-lg text-[#CE1EFA]">{item.titulo}</h3>
                     </div>
-                    <p className="text-sm lg:text-base text-gray-700 dark:text-gray-300">{item.descricao}</p>
+                    <p className="text-sm lg:text-base ">{item.descricao}</p>
                 </div>
             ))}
         </div>

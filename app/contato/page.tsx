@@ -7,7 +7,7 @@ export default function Contact() {
       <p className="text-base sm:text-lg mb-8">
         Fique à vontade para entrar em contato comigo por e-mail, WhatsApp ou pelas minhas redes. Estou sempre aberta a novas oportunidades!
       </p>
-      <div className="gap-8 bg-[#100F0E] p-10 rounded-3xl shadow-lg">
+      <div className="gap-8 bg-card p-10 rounded-3xl shadow-lg">
 
         <div className="space-y-4 text-base sm:text-lg">
           <p>
@@ -16,7 +16,7 @@ export default function Contact() {
             <a
               href="https://mail.google.com/mail/?view=cm&fs=1&to=anabento3807@gmail.com"
               target="_blank"
-              className="text-purple-400 hover:underline">
+              className="text-link-active hover:underline">
               anabento3807@email.com
             </a>
           </p>
@@ -27,7 +27,7 @@ export default function Contact() {
             <a
               href="https://wa.me/5511989949992"
               target="_blank"
-              className="text-purple-400 hover:underline">
+              className="text-link-active hover:underline">
               +55 (11) 98994-9992
             </a>
           </p>
@@ -38,7 +38,7 @@ export default function Contact() {
               href="https://www.linkedin.com/in/anabbsilva/"
               target="_blank"
               rel="noreferrer"
-              className="text-purple-400 hover:underline"
+              className="text-link-active hover:underline"
             >
               linkedin.com/in/anabbsilva
             </a>
@@ -50,7 +50,7 @@ export default function Contact() {
               href="https://github.com/AnaBeatrizBentoSilva"
               target="_blank"
               rel="noreferrer"
-              className="text-purple-400 hover:underline"
+              className="text-link-active hover:underline"
             >
               github.com/AnaBeatrizBentoSilva
             </a>
@@ -59,7 +59,7 @@ export default function Contact() {
           <div className='flex gap-2'>
             <EnvironmentOutlined/>
             <strong>Cidade: </strong>
-            <p className="text-purple-400 hover:underline">Mauá, São Paulo – Brasil</p>
+            <p className="text-link-active hover:underline">Mauá, São Paulo – Brasil</p>
           </div>
 
           <div className="w-full h-64 rounded-2xl overflow-hidden">

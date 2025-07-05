@@ -5,22 +5,49 @@
   --foreground: #000000;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #000000;
-    --foreground: #ededed;
-  }
+.dark {
+  --background: #000000;
+  --foreground: #ededed;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Mudança de cor de alguns componentes específicos */
+
+.bg-card {
+  background-color: #ebebed;
+}
+
+.dark .bg-card {
+  background-color: #100F0E;
+}
+
+.bg-header{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.dark .bg-header{
+  background-color: rgba(16, 15, 14, 0.5);
+}
+
+.bg-card-language {
+  background-color: #c6c6c6;
+  border: 1px solid #ffffff;
+}
+
+.dark .bg-card-language {
+  background-color: #000;
+  border: 1px solid #444444;
+}
+
+.text-link-active {
+  color: #a855f7; 
+}
+
+.dark .text-link-active {
+  color: #d8b4fe; 
 }

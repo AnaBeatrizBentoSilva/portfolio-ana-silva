@@ -8,6 +8,5 @@ export default function Home() {
         Desenvolvedora de Software
       </h1>
     </section>
-
   )
 }
