@@ -13,7 +13,7 @@ export default function InfoCard() {
     };
 
     return (
-        <div className="lg:fixed relative top-20 lg:top-1/2 lg:left-4 lg:transform lg:-translate-y-1/2 bg-[#100F0E] p-6 md:p-10 rounded-3xl shadow-lg w-full max-w-[400px] text-center flex flex-col items-center mx-auto mt-6 lg:mt-0">
+        <div className="bg-card lg:fixed relative top-20 lg:top-1/2 lg:left-4 lg:transform lg:-translate-y-1/2 p-6 md:p-10 rounded-3xl shadow-lg w-full max-w-[400px] text-center flex flex-col items-center mx-auto mt-6">
             <img src="/img/ana.jpeg" alt="" className='rounded-full w-64 mb-8' />
             <h2 className="text-xl font-bold">Ana Beatriz Bento Silva</h2>
             <p className="text-lg">{calcularIdade()} anos</p>

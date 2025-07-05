@@ -18,7 +18,7 @@ export function ProjectsCard({ dados }: Props) {
             {dados.map((project) => (
                 <div
                     key={project.id}
-                    className="bg-[#100F0E] p-5 rounded-3xl shadow-lg w-full md:w-[400px] flex flex-col"
+                    className="bg-card p-5 rounded-3xl shadow-lg w-full md:w-[400px] flex flex-col"
                 >
                     {/* <img src={project.img} alt={project.title} className="rounded-3xl w-full mb-4" /> */}
                     <div className="flex-1 flex flex-col">
